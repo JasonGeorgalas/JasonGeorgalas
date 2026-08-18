@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Jason
+I am a student developer interested in Software, Technology and Engineering 
 
-<!--
-**JasonGeorgalas/JasonGeorgalas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Languages
+Python:
+  - Functions
+  - File Management
+  - Data Processing
 
-Here are some ideas to get you started:
+#### Currently Learning:
+  - HTML
+  - JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   
